@@ -12,3 +12,5 @@ fields:
   label: test-toggle
   hidden: false
   default: true
+pages:
+- test_dir/hello.md
